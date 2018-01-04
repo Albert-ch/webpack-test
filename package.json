@@ -1,0 +1,24 @@
+{
+  "name": "webpack-test",
+  "version": "1.0.0",
+  "description": "just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " webpack --watch "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albert-ch/webpack-test.git"
+  },
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albert-ch/webpack-test/issues"
+  },
+  "homepage": "https://github.com/Albert-ch/webpack-test#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0"
+  }
+}
